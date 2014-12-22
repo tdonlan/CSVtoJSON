@@ -3,7 +3,7 @@ CSVtoJSON
 
 CSVtoJSON is a tool to convert CSV files to JSON, using the column headings as key names.
 
-To Use: Once compiled, call CSVtoJSON.exe <input csv file> <output json file>
+To Use: Once compiled, call CSVtoJSON.exe 'input csv file' 'output json file'
 
 Automatic conversions will be done based on data in CSV:
 
